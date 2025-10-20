@@ -2,9 +2,9 @@
 
 
 ---------------------
+```
 from urllib.request import urlretrieve
 
-```python
 url = "https://github.com/Web-friend/Project-RHz/blob/main/ai_job_trends_dataset.csv" 
 
 filename = "dataset.zip"
