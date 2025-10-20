@@ -4,7 +4,7 @@
 ---------------------
 from urllib.request import urlretrieve
 
-# Define the URL of the resource to download
+`
 url = "https://example.com/some_file.zip" 
 
 # Define the local filename to save the downloaded content
@@ -15,7 +15,7 @@ try:
     urlretrieve(url, filename)
     print(f"Successfully downloaded '{url}' to '{filename}'")
 except Exception as e:
-    print(f"Error downloading the file: {e}")
+    print(f"Error downloading the file: {e}")`
 -----------------------------------
 This project represents **100 hours of dedicated work**.  
 
