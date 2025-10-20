@@ -1,5 +1,22 @@
 # 🚀 Project-RHz
 
+
+---------------------
+from urllib.request import urlretrieve
+
+# Define the URL of the resource to download
+url = "https://example.com/some_file.zip" 
+
+# Define the local filename to save the downloaded content
+filename = "dataset.zip"
+
+try:
+    # Use urlretrieve to download the content from the URL and save it to the specified file
+    urlretrieve(url, filename)
+    print(f"Successfully downloaded '{url}' to '{filename}'")
+except Exception as e:
+    print(f"Error downloading the file: {e}")
+-----------------------------------
 This project represents **100 hours of dedicated work**.  
 
 If you're curious and want to try it yourself, check out our Colab notebook below:
