@@ -4,18 +4,16 @@
 ---------------------
 from urllib.request import urlretrieve
 
-`
-url = "https://example.com/some_file.zip" 
+``
+url = "https://github.com/Web-friend/Project-RHz/blob/main/ai_job_trends_dataset.csv" 
 
-# Define the local filename to save the downloaded content
 filename = "dataset.zip"
 
 try:
-    # Use urlretrieve to download the content from the URL and save it to the specified file
     urlretrieve(url, filename)
     print(f"Successfully downloaded '{url}' to '{filename}'")
 except Exception as e:
-    print(f"Error downloading the file: {e}")`
+    print(f"Error downloading the file: {e}")``
 -----------------------------------
 This project represents **100 hours of dedicated work**.  
 
