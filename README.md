@@ -4,7 +4,7 @@
 ---------------------
 from urllib.request import urlretrieve
 
-``
+```python
 url = "https://github.com/Web-friend/Project-RHz/blob/main/ai_job_trends_dataset.csv" 
 
 filename = "dataset.zip"
@@ -13,7 +13,8 @@ try:
     urlretrieve(url, filename)
     print(f"Successfully downloaded '{url}' to '{filename}'")
 except Exception as e:
-    print(f"Error downloading the file: {e}")``
+    print(f"Error downloading the file: {e}")
+```
 -----------------------------------
 This project represents **100 hours of dedicated work**.  
 
