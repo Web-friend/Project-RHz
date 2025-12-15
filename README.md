@@ -23,6 +23,7 @@ try:
 except Exception as e:
     print(f"Error downloading the file: {e}")
 ```
+
 <hr>
 This project represents **100 hours of dedicated work**.  
 
