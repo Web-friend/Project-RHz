@@ -11,7 +11,7 @@ https://youtu.be/Ii6gs9zADEA?si=HgLVmvjx43_dhCye
 
 <hr>
 
-```
+```python
 from urllib.request import urlretrieve
 
 url = "https://github.com/Web-friend/Project-RHz/blob/main/ai_job_trends_dataset.csv" 
