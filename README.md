@@ -1,7 +1,7 @@
 # 👩‍💻 Collab 101 Course
 
-```text
-https://youtu.be/Ii6gs9zADEA?si=HgLVmvjx43_dhCye
+```
+https://youtu.be/Ii6gs9zADEA?si=HgLVmvjx43_dhCye```
 
 
 # 🚀 Project-RHz
