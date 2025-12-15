@@ -1,4 +1,4 @@
-```json
+```bash
 By Motaz Amara & Ahmed Mbarek
 ```
 
