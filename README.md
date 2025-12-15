@@ -1,4 +1,4 @@
-<strong>By Motaz Amara & Ahmed Mbarak</strong>
+<strong style="color:blue">By Motaz Amara & Ahmed Mbarak</strong>
 
 
 ### 👩‍💻 Collab 101 Course 
