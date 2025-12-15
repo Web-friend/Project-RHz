@@ -10,6 +10,7 @@ https://youtu.be/Ii6gs9zADEA?si=HgLVmvjx43_dhCye
 
 
 <hr>
+
 ```
 from urllib.request import urlretrieve
 
@@ -24,7 +25,6 @@ except Exception as e:
     print(f"Error downloading the file: {e}")
 ```
 
-<hr>
 This project represents **100 hours of dedicated work**.  
 
 If you're curious and want to try it yourself, check out our Colab notebook below:
