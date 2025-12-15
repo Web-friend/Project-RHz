@@ -1,6 +1,5 @@
-```bash
 By Motaz Amara & Ahmed Mbarek
-```
+
 
 <hr>
 
