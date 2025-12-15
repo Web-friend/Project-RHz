@@ -1,4 +1,10 @@
+<link href="https://fonts.googleapis.com/css2?family=Rainy+Hearts&display=swap" rel="stylesheet">
 
+<style>
+  * {
+    font-family: 'Rainy Hearts', cursive;
+  }
+</style>
 <strong>By Motaz Amara & Ahmed Mbarak</strong>
 
 
